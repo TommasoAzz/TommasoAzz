@@ -17,10 +17,10 @@ Bachelor thesis on development of a cross-platform app for managing traffic mana
 
 The following is a non-exhaustive and non-ordered by importance list of work I've done until now (some I cannot show since they're work-related, some are not worth showing) for university courses and personal needs. Most of them are unluckily in Italian but I believe source code is universal enough!
 
-### [![GitHub](https://i.stack.imgur.com/tskMh.png)SimpLanPlus](https://github.com/jjocram/SimpLanPlus)
+### [SimpLanPlus](https://github.com/jjocram/SimpLanPlus)
 **Work in progress** Design and development of a compiler and interpreter for a toy language called **SimpLanPlus**, together with [@jjocram](https://github.com/jjocram).
 
-### [![GitHub](https://i.stack.imgur.com/tskMh.png)italy-2018-election-data-mathematica](https://github.com/jjocram/italy-2018-election-data-mathematica)
+### [italy-2018-election-data-mathematica](https://github.com/jjocram/italy-2018-election-data-mathematica)
 **Work in progress** Design and implementation in **Wolfram Mathematica** of a package and a notebook for analyzing the 2018 Italian political elections, together with [@jjocram](https://github.com/jjocram), [Viktory97](https://github.com/Viktory97) [@MickPerl](https://github.com/MickPerl).
 
 ### [PlainX_Redesign-Dashboard-Covid-Protezione-Civile](https://github.com/TommasoAzz/PlainX_Redesign-Dashboard-Covid-Protezione-Civile)
