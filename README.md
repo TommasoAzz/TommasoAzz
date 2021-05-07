@@ -6,7 +6,7 @@ You can also find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linked
 
 ## Interests
 
-I still consider myself a novice in the field but I love learning about Software Engineering and its applications, how applying good rules lead to good products!
+I still consider myself a novice in the field but I love learning about Software Engineering and its applications, how applying good rules leads to good products!
 
 ## Thesis
 
