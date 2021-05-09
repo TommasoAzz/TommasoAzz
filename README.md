@@ -21,7 +21,7 @@ The following is a non-exhaustive and non-ordered by importance list of work I'v
 **Work in progress** Design and development of a compiler and interpreter for a toy language called **SimpLanPlus**, together with [@jjocram](https://github.com/jjocram).
 
 ### [italy-2018-election-data-mathematica](https://github.com/jjocram/italy-2018-election-data-mathematica)
-**Work in progress** Design and implementation in **Wolfram Mathematica** of a package and a notebook for analyzing the 2018 Italian political elections, together with [@jjocram](https://github.com/jjocram), [Viktory97](https://github.com/Viktory97) [@MickPerl](https://github.com/MickPerl).
+**Work in progress** Design and implementation in **Wolfram Mathematica** of a package and a notebook for analyzing the 2018 Italian political elections, together with [@jjocram](https://github.com/jjocram), [@Viktory97](https://github.com/Viktory97), [@MickPerl](https://github.com/MickPerl).
 
 ### [PlainX_Redesign-Dashboard-Covid-Protezione-Civile](https://github.com/TommasoAzz/PlainX_Redesign-Dashboard-Covid-Protezione-Civile)
 Redesign of the [Italian official Covid-19 dashboard](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by [![Dipartimento della Protezione Civile](http://www.protezionecivile.gov.it/themeDPC-1.0.0-SNAPSHOT/images/favicon.ico) Dipartimento della Protezione Civile (DPC)](http://http://www.protezionecivile.gov.it/), together with [@jjocram](https://github.com/jjocram) and [@MickPerl](https://github.com/MickPerl).
