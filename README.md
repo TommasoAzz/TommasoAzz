@@ -29,11 +29,11 @@ Design and development of a **Service Oriented Application (SOA)** for a company
 ### [vrp-csp](https://github.com/TommasoAzz/vrp-csp)
 Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*, together with [@jjocram](https://github.com/jjocram).
 
-### [Stalker-Backend](https://github.com/TommasoAzz/Stalker-Backend) and other project-related repositories in [qbteam](https://github.com/qb-team)'s page
-Design and development of a system (backend - my and [dlazzaro](https://github.com/dlazzaro)'s job -, web-app and Android app) for tracking authenticated and non-authenticated accesses to organizations by users, together with [babastreio](https://github.com/babastreio), [ChristianMattei](https://github.com/ChristianMattei), [Cis8](https://github.com/Cis8), [dlazzaro](https://github.com/dlazzaro), [EnricoSalmaso](https://github.com/EnricoSalmaso), [FraDrago](https://github.com/FraDrago), [pheasant98](https://github.com/pheasant98).
+### [Stalker-Backend](https://github.com/TommasoAzz/Stalker-Backend) and other project-related repositories in [@qbteam](https://github.com/qb-team)'s page
+Design and development of a system (backend - my and [@dlazzaro](https://github.com/dlazzaro)'s job -, web-app and Android app) for tracking authenticated and non-authenticated accesses to organizations by users, together with [@babastreio](https://github.com/babastreio), [@ChristianMattei](https://github.com/ChristianMattei), [@Cis8](https://github.com/Cis8), [@dlazzaro](https://github.com/dlazzaro), [@EnricoSalmaso](https://github.com/EnricoSalmaso), [@FraDrago](https://github.com/FraDrago), [@pheasant98](https://github.com/pheasant98).
 
 ### [Pastificio](https://github.com/TommasoAzz/Pastificio)
-Design and implementation in **MySQL** of a relational database for a company making pasta, together with [GiulioUmbrella](https://github.com/GiulioUmbrella).
+Design and implementation in **MySQL** of a relational database for a company making pasta, together with [@GiulioUmbrella](https://github.com/GiulioUmbrella).
 
 ### [ViaggiareLeggeRO](https://github.com/TommasoAzz/ViaggiareLeggeRO)
 Design of a **Linear Programming (LP)** model and implementation in **AMPL** for finding the best combination of travels offered by many companies for travelling cheaply.
