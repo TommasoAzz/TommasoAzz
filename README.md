@@ -21,7 +21,7 @@ The following is a non-exhaustive and non-ordered by importance list of work I'v
 **Work in progress** Design and development of a compiler and interpreter for a toy language called **SimpLanPlus**, together with [@jjocram](https://github.com/jjocram).
 
 ### [PlainX_Redesign-Dashboard-Covid-Protezione-Civile](https://github.com/TommasoAzz/PlainX_Redesign-Dashboard-Covid-Protezione-Civile)
-Redesign of the [Italian official Covid-19 dashboard](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by [![Dipartimento della Protezione Civile](http://www.protezionecivile.gov.it/themeDPC-1.0.0-SNAPSHOT/images/favicon.ico) Dipartimento della Protezione Civile (DPC)](http://http://www.protezionecivile.gov.it/), together with [@jjocram](https://github.com/jjocram) and [@MickPerl](https://github.com/MickPerl).
+Redesign of the [Italian official Covid-19 dashboard](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by [![Dipartimento della Protezione Civile](https://www.protezionecivile.gov.it/favicon-32x32.png) Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/), together with [@jjocram](https://github.com/jjocram) and [@MickPerl](https://github.com/MickPerl).
 
 ### [acmesky-project-sources](https://github.com/TommasoAzz/acmesky-project-sources) and [acmesky-project-documentation](https://github.com/TommasoAzz/acmesky-project-documentation)
 Design and development of a **Service Oriented Application (SOA)** for a company called *ACMESky* which sells flight offers and related services to people, together with [@jjocram](https://github.com/jjocram).
