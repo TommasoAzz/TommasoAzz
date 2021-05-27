@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+# Welcome to my GitHub profile 👋
 
 My name is Tommaso Azzalin, I'm a Computer Science master student at [University of Bologna](https://www.unibo.it/en).
 
