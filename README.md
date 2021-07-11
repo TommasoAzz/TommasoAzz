@@ -32,6 +32,9 @@ Design of a **Constraint Satisfaction Problem (CSP)** model and implementation i
 ### [Stalker-Backend](https://github.com/TommasoAzz/Stalker-Backend) and other project-related repositories in [@qbteam](https://github.com/qb-team)'s page
 Design and development of a system (backend - my and [@dlazzaro](https://github.com/dlazzaro)'s job -, web-app and Android app) for tracking authenticated and non-authenticated accesses to organizations by users, together with [@babastreio](https://github.com/babastreio), [@ChristianMattei](https://github.com/ChristianMattei), [@Cis8](https://github.com/Cis8), [@dlazzaro](https://github.com/dlazzaro), [@EnricoSalmaso](https://github.com/EnricoSalmaso), [@FraDrago](https://github.com/FraDrago), [@pheasant98](https://github.com/pheasant98).
 
+### [LogLogger](https://github.com/TommasoAzz/log_logger)
+Development of a wrapper for a famous library called [logger](https://pub.dev/packages/logger) for Flutter/Dart. Published on [pub.dev](https://pub.dev/packages/log_logger).
+
 ### [Pastificio](https://github.com/TommasoAzz/Pastificio)
 Design and implementation in **MySQL** of a relational database for a company making pasta, together with [@GiulioUmbrella](https://github.com/GiulioUmbrella).
 
