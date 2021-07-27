@@ -17,8 +17,8 @@ Bachelor thesis on development of a cross-platform app for managing traffic mana
 
 The following is a non-exhaustive and non-ordered by importance list of work I've done until now (some I cannot show since they're work-related, some are not worth showing) for university courses and personal needs. Most of them are unluckily in Italian but I believe source code is universal enough!
 
-### [SimpLanPlus](https://github.com/jjocram/SimpLanPlus)
-**Work in progress** Design and development of a compiler and interpreter for a toy language called **SimpLanPlus**, together with [@jjocram](https://github.com/jjocram).
+### [SimpLanPlus](https://github.com/TommasoAzz/SimpLanPlus)
+Design and development of a compiler and interpreter for a toy language called **SimpLanPlus**, together with [@jjocram](https://github.com/jjocram).
 
 ### [PlainX_Redesign-Dashboard-Covid-Protezione-Civile](https://github.com/TommasoAzz/PlainX_Redesign-Dashboard-Covid-Protezione-Civile)
 Redesign of the [Italian official Covid-19 dashboard](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by [![Dipartimento della Protezione Civile](https://www.protezionecivile.gov.it/favicon-32x32.png) Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/), together with [@jjocram](https://github.com/jjocram) and [@MickPerl](https://github.com/MickPerl).
