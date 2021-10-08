@@ -17,6 +17,9 @@ Bachelor thesis on development of a cross-platform app for managing traffic mana
 
 The following is a non-exhaustive and non-ordered by importance list of work I've done until now (some I cannot show since they're work-related, some are not worth showing) for university courses and personal needs. Most of them are unluckily in Italian but I believe source code is universal enough!
 
+### [DeepLearningINVALSI](https://github.com/TommasoAzz/DeepLearningINVALSI)
+Design and development of a deep learning model for predicting implicit school dropouts (i.e. when a student ends school with important lack of competences) of Italian students, given data from INVALSI mathematics tests (data is not published with the repository), together with [@jjocram](https://github.com/jjocram) and [@MickPerl](https://github.com/MickPerl).
+
 ### [SimpLanPlus](https://github.com/TommasoAzz/SimpLanPlus)
 Design and development of a compiler and interpreter for a toy language called **SimpLanPlus**, together with [@jjocram](https://github.com/jjocram).
 
