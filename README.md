@@ -32,6 +32,9 @@ Design and development of a **Service Oriented Application (SOA)** for a company
 ### [vrp-csp](https://github.com/TommasoAzz/vrp-csp)
 Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*, together with [@jjocram](https://github.com/jjocram).
 
+### [web3-demo](https://github.com/TommasoAzz/web3-demo)
+Seminar presenting an introduction to the library **web3.js** for connecting to the Ethereum blockchain and a brief demo for creating a kanban-style to-do list manager Dapp.
+
 ### [Stalker-Backend](https://github.com/TommasoAzz/Stalker-Backend) and other project-related repositories in [@qbteam](https://github.com/qb-team)'s page
 Design and development of a system (backend - my and [@dlazzaro](https://github.com/dlazzaro)'s job -, web-app and Android app) for tracking authenticated and non-authenticated accesses to organizations by users, together with [@babastreio](https://github.com/babastreio), [@ChristianMattei](https://github.com/ChristianMattei), [@Cis8](https://github.com/Cis8), [@dlazzaro](https://github.com/dlazzaro), [@EnricoSalmaso](https://github.com/EnricoSalmaso), [@FraDrago](https://github.com/FraDrago), [@pheasant98](https://github.com/pheasant98).
 
