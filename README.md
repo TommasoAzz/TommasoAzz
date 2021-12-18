@@ -29,6 +29,9 @@ Redesign of the [Italian official Covid-19 dashboard](https://opendatadpc.maps.a
 ### [acmesky-project-sources](https://github.com/TommasoAzz/acmesky-project-sources) and [acmesky-project-documentation](https://github.com/TommasoAzz/acmesky-project-documentation)
 Design and development of a **Service Oriented Application (SOA)** for a company called *ACMESky* which sells flight offers and related services to people, together with [@jjocram](https://github.com/jjocram).
 
+### [social-places](https://github.com/TommasoAzz/social-places)
+Design and development of a context-aware system composed of a mobile application and a server for allowing users to experience context-dependent services and receive recommendations, together with [@riccardopreite](https://github.com/riccardopreite).
+
 ### [vrp-csp](https://github.com/TommasoAzz/vrp-csp)
 Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*, together with [@jjocram](https://github.com/jjocram).
 
