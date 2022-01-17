@@ -38,6 +38,9 @@ Design of a **Constraint Satisfaction Problem (CSP)** model and implementation i
 ### [web3-demo](https://github.com/TommasoAzz/web3-demo)
 Seminar presenting an introduction to the library **web3.js** for connecting to the Ethereum blockchain and a brief demo for creating a kanban-style to-do list manager Dapp.
 
+### [web3-demo-flutter](https://github.com/TommasoAzz/web3-demo-flutter)
+Demonstration of the library **flutter_web3** for **Flutter Web**. Resembles the previous project I mentioned on this list, [web3-demo](https://github.com/TommasoAzz/web3-demo).
+
 ### [Stalker-Backend](https://github.com/TommasoAzz/Stalker-Backend) and other project-related repositories in [@qbteam](https://github.com/qb-team)'s page
 Design and development of a system (backend - my and [@dlazzaro](https://github.com/dlazzaro)'s job -, web-app and Android app) for tracking authenticated and non-authenticated accesses to organizations by users, together with [@babastreio](https://github.com/babastreio), [@ChristianMattei](https://github.com/ChristianMattei), [@Cis8](https://github.com/Cis8), [@dlazzaro](https://github.com/dlazzaro), [@EnricoSalmaso](https://github.com/EnricoSalmaso), [@FraDrago](https://github.com/FraDrago), [@pheasant98](https://github.com/pheasant98).
 
