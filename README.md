@@ -35,6 +35,9 @@ Design and development of a context-aware system composed of a mobile applicatio
 ### [vrp-csp](https://github.com/TommasoAzz/vrp-csp)
 Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*, together with [@jjocram](https://github.com/jjocram).
 
+### [non-fungible-royalty-token](https://github.com/TommasoAzz/non-fungible-royalty-token)
+Implementation of a marketplace of a slightly modified version of the [ERC1190 proposal "Non-Fungible Royalty Token"](https://github.com/ethereum/EIPs/issues/1190) and the smart contracts actually representing the ERC1190 proposal in a [OpenZeppelin](https://openzeppelin.com/contracts/) fashion, together with [@dominego](https://github.com/dominego).
+
 ### [web3-demo](https://github.com/TommasoAzz/web3-demo)
 Seminar presenting an introduction to the library **web3.js** for connecting to the Ethereum blockchain and a brief demo for creating a kanban-style to-do list manager Dapp.
 
