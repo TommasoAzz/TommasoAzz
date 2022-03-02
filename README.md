@@ -35,6 +35,9 @@ Design and development of a context-aware system composed of a mobile applicatio
 ### [vrp-csp](https://github.com/TommasoAzz/vrp-csp)
 Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*, together with [@jjocram](https://github.com/jjocram).
 
+### [collaborative-location-activity-recommendations](https://github.com/TommasoAzz/collaborative-location-activity-recommendations)
+Implementation of a grid-based clustering algorithm with **Scala** and **Apache Spark** following the *Map-Reduce* paradigm, tested also in **Google Cloud Platform (GCP)**, together with [@jjocram](https://github.com/jjocram) and [@andreagurioli1995](https://github.com/andreagurioli1995).
+
 ### [non-fungible-royalty-token](https://github.com/TommasoAzz/non-fungible-royalty-token)
 Implementation of a marketplace of a slightly modified version of the [ERC1190 proposal "Non-Fungible Royalty Token"](https://github.com/ethereum/EIPs/issues/1190) and the smart contracts actually representing the ERC1190 proposal in a [OpenZeppelin](https://openzeppelin.com/contracts/) fashion, together with [@dominego](https://github.com/dominego).
 
