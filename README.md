@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-My name is Tommaso Azzalin, I'm a Computer Science master student at [University of Bologna](https://www.unibo.it/en), Italy.
+My name is Tommaso Azzalin, I'm a Computer Science master student at [University of Bologna](https://www.unibo.it/en), Italy and had my bachelor's degree at [University of Padova](https://www.unipd.it/en/), Italy.
 
 I'm currently working on my master thesis at [University of Karlstad](https://www.kau.se/en), Sweden.
 
