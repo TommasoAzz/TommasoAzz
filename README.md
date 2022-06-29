@@ -2,7 +2,7 @@
 
 My name is Tommaso Azzalin, I'm a Computer Science Master's degree student at [University of Bologna](https://www.unibo.it/en) (Italy 🇮🇹) and got my Bachelor's degree at [University of Padova](https://www.unipd.it/en/) (Italy 🇮🇹).
 
-I'm currently working on my master thesis at [University of Karlstad](https://www.kau.se/en) (Sweden 🇸🇪).
+I'm currently working on my Master's thesis at [University of Karlstad](https://www.kau.se/en) (Sweden 🇸🇪).
 
 You can also find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tommaso-azzalin/).
 
