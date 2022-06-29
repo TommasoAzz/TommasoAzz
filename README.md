@@ -8,14 +8,10 @@ You can also find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linked
 
 ## 🔭 Interests
 
-<hr />
-
 I still consider myself a novice in the field but I love learning about Software Engineering and its applications, how applying good rules leads to good products!  
 Nonetheless, I worked on many projects in the past few years so I have experience with many technologies, languages, tools and online platforms.
 
 ## 📚 Thesis
-
-<hr />
 
 ### SMacs SMart city system - Development of a cross-platform app
 **Description**: Bachelor thesis on development of a cross-platform mobile app for managing traffic light devices. Note: this is the thesis LaTeX repository, not the actual application.    
@@ -24,8 +20,6 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev)
 
 ## ⚙️ Projects > System design and development
-
-<hr />
 
 ### ACMESky (Service Oriented Architecture)
 **Description**: Design and development of a **Service Oriented Application (SOA)** for a fictional company called *ACMESky* which sells flight offers and related services to people.   
@@ -65,8 +59,6 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 
 ## ⚙️ Projects > Machine Learning
 
-<hr />
-
 ### YOLO v3
 **Description**: Reimplementation of a the YOLO v3 CNN for detecting objects inside images as part of a wider university project.  
 **Language**: English  
@@ -94,8 +86,6 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 
 ## ⚙️ Projects > Mathematical Programming
 
-<hr />
-
 ### Capacitated Vehicle Routing Problem (CVRP)
 **Description**: Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*.  
 **Language**: English  
@@ -111,8 +101,6 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 
 
 ## ⚙️ Projects > Blockchain
-
-<hr />
 
 ### Non-fungible Royalty Token
 **Description**: Implementation of a marketplace of a slightly modified version of the [ERC1190 proposal "Non-Fungible Royalty Token"](https://github.com/ethereum/EIPs/issues/1190) and the smart contracts actually representing the ERC1190 proposal in a [OpenZeppelin](https://openzeppelin.com/contracts/) fashion.  
@@ -134,8 +122,6 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
 
 ## ⚙️ Projects > Miscellany
-
-<hr />
 
 ### SimpLanPlus
 **Description**: Design and development of a compiler and interpreter for a ad-hoc designed language called **SimpLanPlus** (proposed by the teacher for the sake of the project).  
@@ -165,8 +151,6 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
 ## ⚙️ Projects > Libraries
-
-<hr />
 
 ### log_logger
 **Description**: Development of a wrapper for a famous library called [logger](https://pub.dev/packages/logger) for Flutter/Dart. Published on [pub.dev](https://pub.dev/packages/log_logger). 
