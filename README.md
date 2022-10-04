@@ -1,10 +1,8 @@
 # Welcome to my GitHub profile 👋
 
-My name is Tommaso Azzalin, I'm a Computer Science Master's degree student at [University of Bologna](https://www.unibo.it/en) (Italy 🇮🇹) and got my Bachelor's degree at [University of Padova](https://www.unipd.it/en/) (Italy 🇮🇹).
+My name is Tommaso Azzalin, I've just got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Italy 🇮🇹) and got my Bachelor's degree at [University of Padova](https://www.unipd.it/en/) (Italy 🇮🇹).
 
-I'm currently working on my Master's thesis at [University of Karlstad](https://www.kau.se/en) (Sweden 🇸🇪).
-
-You can also find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tommaso-azzalin/).
+You can also find me on [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tommaso-azzalin/).
 
 ## 🔭 Interests
 
@@ -13,8 +11,14 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 
 ## 📚 Thesis
 
+### SmartForge: An event-driven architecture for simulator-based process optimization
+**Description**: MSc thesis describing the work performed during a mobility at [University of Karlstad](https://www.kau.se/en) (Karlstad, Sweden 🇸🇪) on the design and development of an event-driven architecture and a DRL-based algorithm for controlling parts of an industrial plant. Note: this is the thesis LaTeX repository, not the actual application.  
+**Language**: English  
+**Repository**: [master-thesis](https://github.com/TommasoAzz/master-thesis)  
+**Technologies**: [Apache Kafka](https://kafka.apache.org/), [Apache Cassandra](https://cassandra.apache.org/_/index.html), [Redis](https://redis.io/), [OPC-UA](https://opcfoundation.org/about/opc-technologies/opc-ua/), [Faust](https://faust.readthedocs.io/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [PyTorch](https://pytorch.org/), [OpenAI Gym](https://www.gymlibrary.dev/), [Python](https://www.python.org/)
+
 ### SMacs SMart city system - Development of a cross-platform app
-**Description**: Bachelor thesis on development of a cross-platform mobile app for managing traffic light devices. Note: this is the thesis LaTeX repository, not the actual application.    
+**Description**: Bachelor thesis describing the work performed during an internship at [TEC Systems Engineering](http://www.tecsen.it/) (Padova, Italy 🇮🇹) on the development of a cross-platform mobile app for managing traffic light devices. Note: this is the thesis LaTeX repository, not the actual application.  
 **Language**: Italian  
 **Repository**: [tesi-laurea-triennale](https://github.com/TommasoAzz/tesi-laurea-triennale)  
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev)
