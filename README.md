@@ -1,12 +1,14 @@
 # Welcome to my GitHub profile 👋
 
-My name is Tommaso Azzalin, I've just got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Italy 🇮🇹) and got my Bachelor's degree at [University of Padova](https://www.unipd.it/en/) (Italy 🇮🇹).
+My name is Tommaso Azzalin, I got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Bologna, Italy 🇮🇹) and my Bachelor's degree at [University of Padua](https://www.unipd.it/en/) (Padua, Italy 🇮🇹).
+
+I'm a Data Engineer at [![Uddeholm](https://www.uddeholm.com/app/themes/wp-theme-uddeholm/assets/images/favicons/favicon-16x16.png) Uddeholm](https://www.uddeholm.com/en/) (Hagfors, Sweden 🇸🇪).
 
 You can also find me on [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tommaso-azzalin/).
 
 ## 🔭 Interests
 
-I still consider myself a novice in the field but I love learning about Software Engineering and its applications, how applying good rules leads to good products!  
+I love learning about software and data engineering and their applications, how applying good rules leads to good products!  
 Nonetheless, I worked on many projects in the past few years so I have experience with many technologies, languages, tools and online platforms.
 
 ## 📚 Thesis
@@ -18,7 +20,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [Apache Kafka](https://kafka.apache.org/), [Apache Cassandra](https://cassandra.apache.org/_/index.html), [Redis](https://redis.io/), [OPC-UA](https://opcfoundation.org/about/opc-technologies/opc-ua/), [Faust](https://faust.readthedocs.io/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [PyTorch](https://pytorch.org/), [OpenAI Gym](https://www.gymlibrary.dev/), [Python](https://www.python.org/)
 
 ### SMacs SMart city system - Development of a cross-platform app
-**Description**: Bachelor thesis describing the work performed during an internship at [TEC Systems Engineering](http://www.tecsen.it/) (Padova, Italy 🇮🇹) on the development of a cross-platform mobile app for managing traffic light devices. Note: this is the thesis LaTeX repository, not the actual application.  
+**Description**: Bachelor thesis describing the work performed during an internship at [TEC Systems Engineering](http://www.tecsen.it/) (Padua, Italy 🇮🇹) on the development of a cross-platform mobile app for managing traffic light devices. Note: this is the thesis LaTeX repository, not the actual application.  
 **Language**: Italian  
 **Repository**: [tesi-laurea-triennale](https://github.com/TommasoAzz/tesi-laurea-triennale)  
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev)
