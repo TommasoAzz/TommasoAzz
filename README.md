@@ -111,7 +111,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 ### Non-fungible Royalty Token
 **Description**: Implementation of a marketplace of a slightly modified version of the [ERC1190 proposal "Non-Fungible Royalty Token"](https://github.com/ethereum/EIPs/issues/1190) and the smart contracts actually representing the ERC1190 proposal in a [OpenZeppelin](https://openzeppelin.com/contracts/) fashion.  
 **Language**: English  
-**Collaborators**: [@dominego](https://github.com/dominego)  
+**Collaborators**: [@domingoran](https://github.com/domingoran)  
 **Repository**: [non-fungible-royalty-token](https://github.com/TommasoAzz/non-fungible-royalty-token)  
 **Technologies**: [Flutter](https://flutter.dev), [Infura](https://infura.io/), [IPFS](https://ipfs.io/), [Solidity](https://docs.soliditylang.org/en/v0.8.15/), [Dart](https://dart.dev)
 
