@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile 👋
 
-My name is Tommaso Azzalin, I got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Bologna, Italy 🇮🇹) and my Bachelor's degree at [University of Padua](https://www.unipd.it/en/) (Padua, Italy 🇮🇹).
+My name is Tommaso Azzalin, I'm a Data Engineer at [![Uddeholm](https://www.uddeholm.com/app/themes/wp-theme-uddeholm/assets/images/favicons/favicon-16x16.png) Uddeholm](https://www.uddeholm.com/en/) (Hagfors, Sweden 🇸🇪).
 
-I'm a Data Engineer at [![Uddeholm](https://www.uddeholm.com/app/themes/wp-theme-uddeholm/assets/images/favicons/favicon-16x16.png) Uddeholm](https://www.uddeholm.com/en/) (Hagfors, Sweden 🇸🇪).
+I got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Bologna, Italy 🇮🇹) and my Bachelor's degree at [University of Padua](https://www.unipd.it/en/) (Padua, Italy 🇮🇹).
 
 You can also find me on [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tommaso-azzalin/).
 
