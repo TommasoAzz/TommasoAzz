@@ -16,7 +16,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 ### SmartForge: An event-driven architecture for simulator-based process optimization
 **Description**: MSc thesis describing the work performed during a mobility at [University of Karlstad](https://www.kau.se/en) (Karlstad, Sweden 🇸🇪) on the design and development of an event-driven architecture and a DRL-based algorithm for controlling parts of an industrial plant. Note: this is the thesis LaTeX repository, not the actual application.  
 **Language**: English  
-**Repository**: (temporarily unavailable)  
+**Repository**: Unavailable  
 **Technologies**: [Apache Kafka](https://kafka.apache.org/), [Apache Cassandra](https://cassandra.apache.org/_/index.html), [Redis](https://redis.io/), [OPC-UA](https://opcfoundation.org/about/opc-technologies/opc-ua/), [Faust](https://faust.readthedocs.io/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [PyTorch](https://pytorch.org/), [OpenAI Gym](https://www.gymlibrary.dev/), [Python](https://www.python.org/)
 
 ### SMacs SMart city system - Development of a cross-platform app
@@ -24,6 +24,14 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Language**: Italian  
 **Repository**: [tesi-laurea-triennale](https://github.com/TommasoAzz/tesi-laurea-triennale)  
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev)
+
+## 📃 Articles
+
+### Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production
+**Description**: Contributed to an article regarding a Digital Twin-Based Approach for Smart Manufacturing to improve Sustainability, Efficiency, and Cost-Effectiveness for a steel production plant.  
+**Language**: English  
+**Link to the article**: [Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production](https://doi.org/10.1016/j.jss.2025.112542)
+**Keywords**: **Steel productionAdvanced machine learning (ML)**, **Deep reinforcement learning (DRL)**, **MLOps-driven architecture**
 
 ## ⚙️ Projects > System design and development
 
