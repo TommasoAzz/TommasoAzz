@@ -2,7 +2,7 @@
 
 My name is Tommaso Azzalin, I'm a Data Engineer at [![Uddeholm](https://www.uddeholm.com/app/themes/wp-theme-uddeholm/assets/images/favicons/favicon-16x16.png) Uddeholm](https://www.uddeholm.com/en/) (Hagfors, Sweden 🇸🇪).
 
-I got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Bologna, Italy 🇮🇹) and my Bachelor's degree at [University of Padua](https://www.unipd.it/en/) (Padua, Italy 🇮🇹).
+I got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Bologna, Italy 🇮🇹) and my BSc at [University of Padua](https://www.unipd.it/en/) (Padua, Italy 🇮🇹).
 
 You can also find me on [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tommaso-azzalin/).
 
@@ -30,7 +30,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 ### Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production
 **Description**: Contributed to an article regarding a Digital Twin-Based Approach for Smart Manufacturing to improve Sustainability, Efficiency, and Cost-Effectiveness for a steel production plant.  
 **Language**: English  
-**Link to the article**: [Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production](https://doi.org/10.1016/j.jss.2025.112542)
+**Link to the article**: [Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production](https://doi.org/10.1016/j.jss.2025.112542)  
 **Keywords**: **Steel productionAdvanced machine learning (ML)**, **Deep reinforcement learning (DRL)**, **MLOps-driven architecture**
 
 ## ⚙️ Projects > System design and development
@@ -135,7 +135,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Repository**: [web3-demo-flutter](https://github.com/TommasoAzz/web3-demo-flutter)  
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
 
-## ⚙️ Projects > Miscellany
+## ⚙️ Projects > Miscellanea
 
 ### SimpLanPlus
 **Description**: Design and development of a compiler and interpreter for a ad-hoc designed language called **SimpLanPlus** (proposed by the teacher for the sake of the project).  
