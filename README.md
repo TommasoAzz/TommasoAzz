@@ -175,5 +175,5 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 ### super_simple_storage
 **Description**: Development of a library for implementing storage systems for Flutter/Dart. Published on [pub.dev](https://pub.dev/packages/super_simple_storage).  
 **Language**: English  
-**Repository**: [super_simple_storage](hhttps://github.com/TommasoAzz/super_simple_storage)  
+**Repository**: [super_simple_storage](https://github.com/TommasoAzz/super_simple_storage)  
 **Technologies**: [Dart](https://dart.dev/)
