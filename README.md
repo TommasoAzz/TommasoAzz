@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-My name is Tommaso Azzalin, I'm a Data Engineer at [![Uddeholm](https://www.uddeholm.com/app/themes/wp-theme-uddeholm/assets/images/favicons/favicon-16x16.png) Uddeholm](https://www.uddeholm.com/en/) (Hagfors, Sweden 🇸🇪).
+My name is Tommaso Azzalin, I'm a Data Engineer at [Uddeholm](https://www.uddeholm.com/en/) (Hagfors, Sweden 🇸🇪).
 
 I got my MSc in Computer Science at [University of Bologna](https://www.unibo.it/en) (Bologna, Italy 🇮🇹) and my BSc at [University of Padua](https://www.unipd.it/en/) (Padua, Italy 🇮🇹).
 
@@ -33,7 +33,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Link to the article**: [Smart manufacturing: MLOps-enabled event-driven architecture for enhanced control in steel production](https://doi.org/10.1016/j.jss.2025.112542)  
 **Keywords**: **Steel productionAdvanced machine learning (ML)**, **Deep reinforcement learning (DRL)**, **MLOps-driven architecture**
 
-## ⚙️ Projects > System design and development
+## ⚙️ Projects - System design and development
 
 ### ACMESky (Service Oriented Architecture)
 **Description**: Design and development of a **Service Oriented Application (SOA)** for a fictional company called *ACMESky* which sells flight offers and related services to people.   
@@ -71,7 +71,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [Bootstrap](https://getbootstrap.com/), [MySQL](https://www.mysql.com/it/), [PHP](https://www.php.net/)
 
 
-## ⚙️ Projects > Machine Learning
+## ⚙️ Projects - Machine Learning
 
 ### YOLO v3
 **Description**: Reimplementation of a the YOLO v3 CNN for detecting objects inside images as part of a wider university project.  
@@ -88,7 +88,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [Tensorflow](https://www.tensorflow.org/), [Python](https://www.python.org/)
 
 
-## ⚙️ Projects > UI/UX
+## ⚙️ Projects - UI/UX
 
 ### PlainX - Redesign of the Italian official Covid-19 dashboard
 **Description**: Redesign of the [Italian official Covid-19 dashboard](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by [Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/).  
@@ -98,7 +98,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [LaTeX](https://www.latex-project.org/), [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
 
 
-## ⚙️ Projects > Mathematical Programming
+## ⚙️ Projects - Mathematical Programming
 
 ### Capacitated Vehicle Routing Problem (CVRP)
 **Description**: Design of a **Constraint Satisfaction Problem (CSP)** model and implementation in **MiniZinc** for solving the *Capacitated Vehicle Routing Problem (CVRP)*.  
@@ -114,7 +114,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Technologies**: [AMPL](https://ampl.com/)
 
 
-## ⚙️ Projects > Blockchain
+## ⚙️ Projects - Blockchain
 
 ### Non-fungible Royalty Token
 **Description**: Implementation of a marketplace of a slightly modified version of the [ERC1190 proposal "Non-Fungible Royalty Token"](https://github.com/ethereum/EIPs/issues/1190) and the smart contracts actually representing the ERC1190 proposal in a [OpenZeppelin](https://openzeppelin.com/contracts/) fashion.  
@@ -135,7 +135,7 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Repository**: [web3-demo-flutter](https://github.com/TommasoAzz/web3-demo-flutter)  
 **Technologies**: [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
 
-## ⚙️ Projects > Miscellanea
+## ⚙️ Projects - Miscellanea
 
 ### SimpLanPlus
 **Description**: Design and development of a compiler and interpreter for a ad-hoc designed language called **SimpLanPlus** (proposed by the teacher for the sake of the project).  
@@ -164,10 +164,10 @@ Nonetheless, I worked on many projects in the past few years so I have experienc
 **Repository**: [italy-2018-election-data-mathematica](https://github.com/TommasoAzz/italy-2018-election-data-mathematica)  
 **Technologies**: [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
-## ⚙️ Projects > Libraries
+## ⚙️ Projects - Libraries
 
 ### log_logger
-**Description**: Development of a wrapper for a famous library called [logger](https://pub.dev/packages/logger) for Flutter/Dart. Published on [pub.dev](https://pub.dev/packages/log_logger). 
+**Description**: Development of a wrapper for a famous library called [logger](https://pub.dev/packages/logger) for Flutter/Dart. Published on [pub.dev](https://pub.dev/packages/log_logger).  
 **Language**: English  
 **Repository**: [log_logger](https://github.com/TommasoAzz/log_logger)  
 **Technologies**: [Dart](https://dart.dev/)
